@@ -3,3 +3,4 @@
 - The programming languages I know are:  Python, C, C++, R, MatLab, bash, LateX
 - I am learning to use Quantum Espresso
 - My email adress is eliastocco@gmail.com
+- In "EliaStocco_CV.pdf" you can see my Curriculum Vitae (Italian language)
