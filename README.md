@@ -1,6 +1,6 @@
 - Hi, I’m Elia Stocco, an Italian MSc in Solid State Physics at University of Pavia
 - I know Monte Carlo methods, molecular dynamics algorithms, Finite/Virtual/Boundary Element Methods
-- The programming languages I know are:  Python, C, C++, R, MatLab, bash, LateX
+- The programming languages I know are:  Python, C, C++, R, MatLab, bash, LaTeX
 - I am learning to use Quantum Espresso
 - My email adress is eliastocco@gmail.com
 - In "EliaStocco_CV.pdf" you can see my Curriculum Vitae (Italian language)
