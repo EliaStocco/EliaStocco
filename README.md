@@ -1,5 +1,5 @@
-- Hi, I’m Elia Stocco, an Italian Master Student in Solid State Physics, at University of Pavia
-- email adress: elia.stocco01@universitadipavia.it
-- programming languages: python, C, C++, R, MatLab, bash, LaTeX
-- softwares: Quantum Espresso, PHI
-- other numerical techniques: Monte Carlo methods, molecular dynamics algorithms, Finite/Virtual/Boundary Element Methods
+- Hi, I’m Elia Stocco, a PhD student in the Max Planck Institute for the Structure and Dynamics of Matter, Hamburg, Germany
+- email adress: elia.stocco@mpsd.mpg.de
+- programming languages: python, C, C++, R, MatLab, bash, LaTeX, Fortran
+- softwares: Quantum Espresso, FHI-aims, VASP
+- other numerical techniques: molecular dynamics, equivariant neural networks
