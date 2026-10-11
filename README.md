@@ -1,5 +1,5 @@
-- Hi, I’m Elia Stocco, a PhD student in the Max Planck Institute for the Structure and Dynamics of Matter, Hamburg, Germany
-- email adress: elia.stocco@mpsd.mpg.de
-- programming languages: python, C, C++, R, MatLab, bash, LaTeX, Fortran
-- softwares: Quantum Espresso, FHI-aims, VASP
+- Hi, I’m Elia Stocco, a PhD student at the Max Planck Institute for the Structure and Dynamics of Matter, Hamburg, Germany
+- email adress: eliastocco@gmail.com
+- programming languages: python, C, C++, R, bash, LaTeX, Fortran
+- softwares: Quantum Espresso, FHI-aims, VASP, i-PI
 - other numerical techniques: molecular dynamics, equivariant neural networks
